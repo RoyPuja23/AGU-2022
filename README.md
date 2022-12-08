@@ -26,6 +26,14 @@
 
 **Figs. 6: Domain Temperature (shaded) with initial RH = 10%, P = 850 hPa, T∞ = 273.15 K and r0 = 30 μm.**
 
+
 ![Droplet_1s_2](https://user-images.githubusercontent.com/48781150/206545635-7b0ef3f5-9286-4dc6-bbc2-1f44d794d90f.png)
 
+![1s_T_273_15K_30um_RH10_P0_air_850hPa](https://user-images.githubusercontent.com/48781150/206549100-a6c95279-71a5-48e3-b832-7dd06a28eac3.gif)
+
 ![Droplet_13s_2](https://user-images.githubusercontent.com/48781150/206545638-7a280a85-59d9-4ac2-8739-1370c2352d78.png)
+
+![Temp_T_273_15K_30um_RH10_P0_air_850hPa](https://user-images.githubusercontent.com/48781150/206549215-ff3e0c14-7fac-4790-a74c-519796ff7b7f.gif)
+
+
+
